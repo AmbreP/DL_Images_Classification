@@ -18,7 +18,7 @@ Application de reconnaissance d'images (lettres tracées à la souris) à l'aide
 
 Pour les tests suivants, les "pip install" si ce n'est déjà fait.
 
-## Mode d'emploi : test du script .ipynb
+## Mode d'emploi : test du script MNIST.ipynb
 Télécharger les données suivantes à mettre dans un sous-dossier "data" :
 - [train](https://www.kaggle.com/crawford/emnist?select=emnist-letters-train.csv)
 - [test](https://www.kaggle.com/crawford/emnist?select=emnist-letters-test.csv)
